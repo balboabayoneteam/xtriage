@@ -1,4 +1,4 @@
-# xtriage# xTriage — 3-Click AI Triage API
+# xTriage — 3-Click AI Triage API
 
 - **99.9% uptime**  
 - **700+ doors**  
